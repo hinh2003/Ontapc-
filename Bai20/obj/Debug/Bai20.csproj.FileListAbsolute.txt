@@ -1,0 +1,10 @@
+D:\hoangquan\decuong\Bai20\bin\Debug\Bai20.exe.config
+D:\hoangquan\decuong\Bai20\bin\Debug\Bai20.exe
+D:\hoangquan\decuong\Bai20\bin\Debug\Bai20.pdb
+D:\hoangquan\decuong\Bai20\obj\Debug\Bai20.csproj.AssemblyReference.cache
+D:\hoangquan\decuong\Bai20\obj\Debug\Bai20.Form1.resources
+D:\hoangquan\decuong\Bai20\obj\Debug\Bai20.Properties.Resources.resources
+D:\hoangquan\decuong\Bai20\obj\Debug\Bai20.csproj.GenerateResource.cache
+D:\hoangquan\decuong\Bai20\obj\Debug\Bai20.csproj.CoreCompileInputs.cache
+D:\hoangquan\decuong\Bai20\obj\Debug\Bai20.exe
+D:\hoangquan\decuong\Bai20\obj\Debug\Bai20.pdb

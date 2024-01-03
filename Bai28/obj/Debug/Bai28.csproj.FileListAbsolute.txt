@@ -1,0 +1,15 @@
+D:\hoangquan\decuong\Bai28\bin\Debug\Bai28.exe.config
+D:\hoangquan\decuong\Bai28\bin\Debug\Bai28.exe
+D:\hoangquan\decuong\Bai28\bin\Debug\Bai28.pdb
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28.csproj.AssemblyReference.cache
+D:\hoangquan\decuong\Bai28\obj\Debug\MainWindow.g.cs
+D:\hoangquan\decuong\Bai28\obj\Debug\App.g.cs
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28_MarkupCompile.cache
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28_MarkupCompile.lref
+D:\hoangquan\decuong\Bai28\obj\Debug\MainWindow.baml
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28.g.resources
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28.Properties.Resources.resources
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28.csproj.GenerateResource.cache
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28.csproj.CoreCompileInputs.cache
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28.exe
+D:\hoangquan\decuong\Bai28\obj\Debug\Bai28.pdb

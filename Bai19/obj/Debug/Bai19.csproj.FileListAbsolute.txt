@@ -1,0 +1,10 @@
+D:\hoangquan\decuong\Bai19\bin\Debug\Bai19.exe.config
+D:\hoangquan\decuong\Bai19\bin\Debug\Bai19.exe
+D:\hoangquan\decuong\Bai19\bin\Debug\Bai19.pdb
+D:\hoangquan\decuong\Bai19\obj\Debug\Bai19.csproj.AssemblyReference.cache
+D:\hoangquan\decuong\Bai19\obj\Debug\Bai19.Form1.resources
+D:\hoangquan\decuong\Bai19\obj\Debug\Bai19.Properties.Resources.resources
+D:\hoangquan\decuong\Bai19\obj\Debug\Bai19.csproj.GenerateResource.cache
+D:\hoangquan\decuong\Bai19\obj\Debug\Bai19.csproj.CoreCompileInputs.cache
+D:\hoangquan\decuong\Bai19\obj\Debug\Bai19.exe
+D:\hoangquan\decuong\Bai19\obj\Debug\Bai19.pdb

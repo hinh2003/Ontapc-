@@ -1,0 +1,10 @@
+D:\hoangquan\decuong\bai23\bin\Debug\bai23.exe.config
+D:\hoangquan\decuong\bai23\bin\Debug\bai23.exe
+D:\hoangquan\decuong\bai23\bin\Debug\bai23.pdb
+D:\hoangquan\decuong\bai23\obj\Debug\bai23.csproj.AssemblyReference.cache
+D:\hoangquan\decuong\bai23\obj\Debug\bai23.Form1.resources
+D:\hoangquan\decuong\bai23\obj\Debug\bai23.Properties.Resources.resources
+D:\hoangquan\decuong\bai23\obj\Debug\bai23.csproj.GenerateResource.cache
+D:\hoangquan\decuong\bai23\obj\Debug\bai23.csproj.CoreCompileInputs.cache
+D:\hoangquan\decuong\bai23\obj\Debug\bai23.exe
+D:\hoangquan\decuong\bai23\obj\Debug\bai23.pdb

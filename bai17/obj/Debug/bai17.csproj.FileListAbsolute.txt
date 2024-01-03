@@ -1,0 +1,10 @@
+D:\hoangquan\decuong\bai17\bin\Debug\bai17.exe.config
+D:\hoangquan\decuong\bai17\bin\Debug\bai17.exe
+D:\hoangquan\decuong\bai17\bin\Debug\bai17.pdb
+D:\hoangquan\decuong\bai17\obj\Debug\bai17.csproj.AssemblyReference.cache
+D:\hoangquan\decuong\bai17\obj\Debug\bai17.Form1.resources
+D:\hoangquan\decuong\bai17\obj\Debug\bai17.Properties.Resources.resources
+D:\hoangquan\decuong\bai17\obj\Debug\bai17.csproj.GenerateResource.cache
+D:\hoangquan\decuong\bai17\obj\Debug\bai17.csproj.CoreCompileInputs.cache
+D:\hoangquan\decuong\bai17\obj\Debug\bai17.exe
+D:\hoangquan\decuong\bai17\obj\Debug\bai17.pdb

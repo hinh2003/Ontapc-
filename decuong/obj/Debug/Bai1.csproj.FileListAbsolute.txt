@@ -1,0 +1,10 @@
+D:\hoangquan\decuong\decuong\bin\Debug\decuong.exe.config
+D:\hoangquan\decuong\decuong\bin\Debug\decuong.exe
+D:\hoangquan\decuong\decuong\bin\Debug\decuong.pdb
+D:\hoangquan\decuong\decuong\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\hoangquan\decuong\decuong\obj\Debug\decuong.Form1.resources
+D:\hoangquan\decuong\decuong\obj\Debug\decuong.Properties.Resources.resources
+D:\hoangquan\decuong\decuong\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\hoangquan\decuong\decuong\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\hoangquan\decuong\decuong\obj\Debug\decuong.exe
+D:\hoangquan\decuong\decuong\obj\Debug\decuong.pdb
