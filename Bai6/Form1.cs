@@ -89,7 +89,7 @@ namespace Bai6
             {
                 if (int.TryParse(listBox1.Items[i].ToString(), out int number))
                 {
-                    if ((number % 5 == 0 && isEven) || (number % 3 != 0 && !isEven))
+                    if ((number % 5 == 0 ) || (number % 3 == 0))
                     {
                         listBox1.SetSelected(i, true);
                     }
