@@ -131,5 +131,39 @@ namespace Bai22
         {
             Application.Exit();
         }
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            UpdatePanelBackgroundColor();
+
+        }
+        private void UpdatePanelBackgroundColor()
+        {
+            panel1.BackColor = Color.FromArgb(hScrollBar1.Value, hScrollBar2.Value, hScrollBar3.Value);
+        }
+
+        private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        {
+            textBox11.Text = hScrollBar1.Value.ToString();
+            UpdatePanelBackgroundColor();
+        }
+
+        private void hScrollBar2_Scroll(object sender, ScrollEventArgs e)
+        {
+
+            textBox9.Text = hScrollBar2.Value.ToString();
+            UpdatePanelBackgroundColor();
+        }
+
+        private void hScrollBar3_Scroll(object sender, ScrollEventArgs e)
+        {
+            textBox10.Text = hScrollBar3.Value.ToString();
+            UpdatePanelBackgroundColor();
+        }
     }
 }

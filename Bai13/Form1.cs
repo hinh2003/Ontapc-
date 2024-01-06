@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -40,6 +41,29 @@ namespace Bai13
         private void button3_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            bool li = true; // Hoặc bất kỳ giá trị nào phù hợp với điều kiện của bạn
+
+            if (listBox1.Items.Count > 0 && li)
+            {
+                Regex regex = new Regex(@"^\d+$"); // Kiểm tra xem chuỗi có phải là số không
+
+                for (int i = listBox1.Items.Count - 1; i >= 0; i--)
+                {
+                    string currentItem = listBox1.Items[i].ToString();
+                    if (regex.IsMatch(currentItem))
+                    {
+                        listBox1.Items.RemoveAt(i);
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("Không có gì để xóa");
+            }
         }
     }
 }
