@@ -19,9 +19,13 @@ namespace Bai14
         private void ThietLapViTriComboBox()
         {
             comboBox1.Items.Clear();
+            comboBox2.Items.Clear();
             int chiso = listBox1.Items.Count;
             for (int i = 0; i < chiso; i++)
+            {
                 comboBox1.Items.Add(i.ToString());
+                comboBox2.Items.Add(i.ToString());
+            }
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -73,6 +77,23 @@ namespace Bai14
         {
             listBox1.Items.Clear();
 
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            int selectedIndex = comboBox2.SelectedIndex;
+
+            if (selectedIndex != -1 && selectedIndex < listBox1.Items.Count)
+            {
+                listBox1.Items.RemoveAt(selectedIndex);
+                ThietLapViTriComboBox();
+
+            }
         }
     }
 }
