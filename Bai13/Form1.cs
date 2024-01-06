@@ -49,7 +49,7 @@ namespace Bai13
 
             if (listBox1.Items.Count > 0 && li)
             {
-                Regex regex = new Regex(@"^\d+$"); // Kiểm tra xem chuỗi có phải là số không
+                Regex regex = new Regex(@"^-?\d+(\.\d+)?$");
 
                 for (int i = listBox1.Items.Count - 1; i >= 0; i--)
                 {
