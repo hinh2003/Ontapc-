@@ -83,6 +83,19 @@ namespace Bai6
                 }
             }
         }
+        private void SelectItemsByCriteria1(bool isEven)
+        {
+            for (int i = 0; i < listBox1.Items.Count; i++)
+            {
+                if (int.TryParse(listBox1.Items[i].ToString(), out int number))
+                {
+                    if ((number % 5 == 0 && isEven) || (number % 3 != 0 && !isEven))
+                    {
+                        listBox1.SetSelected(i, true);
+                    }
+                }
+            }
+        }
 
         private void button7_Click(object sender, EventArgs e)
         {
@@ -99,6 +112,12 @@ namespace Bai6
         private void button9_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Reset();
+            SelectItemsByCriteria1(true);
         }
     }
 }
